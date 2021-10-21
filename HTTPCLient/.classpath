@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Spring jar/spring-aop-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-aop-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-aop-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-aspects-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-aspects-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-aspects-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-beans-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-beans-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-beans-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-context-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-context-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-context-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-context-indexer-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-context-indexer-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-context-indexer-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-context-support-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-context-support-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-context-support-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-core-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-core-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-core-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-expression-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-expression-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-expression-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-instrument-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-instrument-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-instrument-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-jcl-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-jcl-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-jcl-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-jdbc-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-jdbc-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-jdbc-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-jms-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-jms-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-jms-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-messaging-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-messaging-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-messaging-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-orm-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-orm-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-orm-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-oxm-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-oxm-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-oxm-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-test-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-test-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-test-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-tx-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-tx-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-tx-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-web-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-web-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-web-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-webflux-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-webflux-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-webflux-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-webmvc-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-webmvc-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-webmvc-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-websocket-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-websocket-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="Spring jar/spring-websocket-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="SimpleJSON/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="SimpleJSON/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
